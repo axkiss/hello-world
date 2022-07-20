@@ -3,5 +3,10 @@ def hello():
     print('Hello World!')
 
 
+def bye():
+    print('Bye!')
+
+
 if __name__ == '__main__':
     hello()
+    bye()
