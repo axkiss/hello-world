@@ -1,4 +1,5 @@
 def hello():
+    """Печатает Hello World"""
     print('Hello World!')
 
 
