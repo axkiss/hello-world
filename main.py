@@ -4,6 +4,7 @@ def hello():
 
 
 def bye():
+    """Печатает Bye"""
     print('Bye!')
 
 
